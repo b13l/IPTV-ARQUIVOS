@@ -63,8 +63,6 @@ http://deylertv.xyz:80/series/768749586/489245130/3282647.mp4
 #EXTINF:-1 group-title="3 Palavrinhas (Especial) 👶🏻" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71vhGZ-8w3L.jpg",3 Palavrinhas S03 E10
 http://deylertv.xyz:80/series/768749586/489245130/3282648.mp4
 
-#EXTM3U
-
 #EXTINF:-1 group-title="JOGOS DE HOJE" tvg-logo="https://i.imgur.com/VPAjjtA.png",JOGOS DE HOJE
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/194567.mpegts
 
@@ -733,8 +731,6 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/42903.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/50645.mpegts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta HD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/60201.mpegts
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/CW2ZX72.png",RedeTV! [4K]
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/61837.mpegts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta FHD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/61960.mpegts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
@@ -5015,6 +5011,8 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91566.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91588.mpegts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/2dQYfeK.png",TV Camara
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/99234.mpegts
+#EXTINF:-1 group-title="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png",Jogos de Hoje
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/194567.mpegts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/wshifzU.png",JOVEM PAM SP
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/113395.mpegts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/wshifzU.png",ANTENA 1 FM
