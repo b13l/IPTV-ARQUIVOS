@@ -719,6 +719,10 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/57097.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63082.mpegts
 #EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 14 [4K]
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63082.mpegts
+#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 15
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/57098.mpegts
+#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 15
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/57098.mpegts
 #EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 15 [4K]
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63083.mpegts
 #EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 15 [4K]
@@ -751,10 +755,14 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/69331.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/57102.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 19
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/57102.mpegts
+#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 19 [4K]
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/69332.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 2
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/52278.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 2
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/52278.mpegts
+#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 20
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/57113.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 21
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/69517.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] ADULTO 21
@@ -859,6 +867,8 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63360.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63361.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] BRASILEIRINHAS 07
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63361.mpegts
+#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] BRASILEIRINHAS 08
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63362.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] BRASILEIRINHAS 09
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63363.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] BRASILEIRINHAS 09
@@ -1219,6 +1229,70 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/61966.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63699.mpegts
 #EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/1eXO9BU.png",[XX] VIVID Red
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63699.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Cinema
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214339.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Cinema
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214339.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Criança
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214338.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Criança
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214338.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Criança
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214338.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Humor
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214337.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Humor
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214337.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Humor
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214337.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Informação
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214336.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Informação
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214336.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Informação
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214336.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Novelas
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214335.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Novelas
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214335.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Novelas
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214335.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Pop
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214334.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Pop
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214334.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Pop
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214334.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Saudade
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214333.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Saudade
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214333.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Saudade
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214333.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Series
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214332.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Series
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214332.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Series
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214332.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Silvio Santos
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214331.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Silvio Santos
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214331.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Silvio Santos
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214331.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Simulcast
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214299.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Simulcast
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214299.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Simulcast
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214299.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT TV Zyn
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/214300.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT TV Zyn
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/214300.mpegts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT TV Zyn
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/214300.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",101 Dalmatas 24HS
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/70109.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",101 Dalmatas 24HS
@@ -1375,6 +1449,10 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/62807.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/62807.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/oPzq9zc.png",Adult Swim H265
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/62807.mpegts
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal FHD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91572.mpegts
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal FHD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91572.mpegts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal HD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/71074.mpegts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal HD
@@ -2581,8 +2659,6 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/62800.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/62800.mpegts
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://i.imgur.com/oPzq9zc.png",Cartoonito H265
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/62800.mpegts
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito HD
-http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63627.mpegts
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito HD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63627.mpegts
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito HD
@@ -4391,10 +4467,24 @@ http://play.1list.vip/live/Cl4358669/e97mbqcbvle/72814.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/72815.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Belo Horizonte HD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/72815.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/37095.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília [4K]
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/215396.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília [4K]
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/215396.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília [4K]
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/215396.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília FHD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/64592.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília FHD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/64592.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília FHD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/64592.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília FHD H265
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91291.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília FHD H265
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91291.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília HD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/40513.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília HD
@@ -4413,20 +4503,54 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/215393.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/215393.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo CE [4K]
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/215393.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Ceará
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/71675.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Ceará
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/71675.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Ceará FHD
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/116823.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América Cuaibá HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91288.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América Cuaibá HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91288.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América Cuaibá HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91288.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América FHD - H265
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/68056.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América FHD - H265
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/68056.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Centro América FHD - H265
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/68056.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuaibá HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91266.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuaibá HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91266.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuaibá HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91266.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá [4K]
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/215392.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá [4K]
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/215392.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá [4K]
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/215392.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá FHD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/106018.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá FHD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/106018.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Cuiabá FHD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/106018.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Gazeta Alagoas FHD H265
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91292.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Gazeta Alagoas FHD H265
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91292.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Gazeta Alagoas FHD H265
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91292.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Goiânia
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/71664.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Goiânia
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/71664.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Goiânia
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/71664.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Goiânia HD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/64651.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Goiânia HD
@@ -4437,6 +4561,8 @@ http://play.1list.vip/live/Cl4358669/e97mbqcbvle/64651.mpegts
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/68077.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Inter TV Grande Minas  FHD - H265
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/68077.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Inter TV Grande Minas  FHD - H265
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/68077.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Juazeiro Bahia FHD
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/80365.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Juazeiro Bahia FHD
@@ -4449,6 +4575,12 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/80364.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/80364.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Juazeiro Bahia HD
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/80364.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/40250.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/40250.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/40250.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/cc32BI7.png",Globo Minas [ALT]
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/51154.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/cc32BI7.png",Globo Minas [ALT]
@@ -4467,6 +4599,12 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/68058.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/68058.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas FHD - H265
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/68058.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas FHD H265
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91293.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas FHD H265
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91293.mpegts
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas FHD H265
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91293.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas H265
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/62820.mpegts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Minas H265
@@ -5759,6 +5897,8 @@ http://play.1list.vip/live/Cl4358669/e97mbqcbvle/215140.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/91508.mpegts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/UPERkum.png",Like HD
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/91508.mpegts
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/UPERkum.png",Like HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/91508.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",Lilo & Stitch [24h]
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/217324.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",Lilo & Stitch [24h]
@@ -5787,46 +5927,68 @@ http://play.1list.vip/live/Cl4358669/e97mbqcbvle/111276.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/111280.mpegts
 #EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 3 (B)
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/111280.mpegts
+#EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 3 (B)
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/111280.mpegts
 #EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (A)
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/111277.mpegts
 #EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (A)
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/111277.mpegts
+#EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (A)
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/111277.mpegts
 #EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (B)
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/111281.mpegts
 #EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (B)
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/111281.mpegts
+#EXTINF:-1 group-title="Canais | Futsal" tvg-logo="https://i.imgur.com/CvfakIs.png",LNF - Liga Futsal 4 (B)
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/111281.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 01
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133492.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 01
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133492.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 01
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133492.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 02
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133493.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 02
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133493.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 02
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133493.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 03
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133494.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 03
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133494.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 03
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133494.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 04
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133495.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 04
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133495.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 04
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133495.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 05
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133496.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 05
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133496.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 05
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133496.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 06
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133497.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 06
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133497.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 06
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133497.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 07
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133498.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 07
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133498.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 07
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133498.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 08
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133499.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 08
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133499.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 08
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133499.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 09
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133500.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/7iRYVxk.png",Lofi Hip Hop - Estudar/Relaxar 09
@@ -5899,6 +6061,12 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/50836.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/50836.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/tj8yfWF.png",Mais na Tela HD [ALT]
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/50836.mpegts
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/viQHzF5.png",Malhação Fast
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/215360.mpegts
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/viQHzF5.png",Malhação Fast
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/215360.mpegts
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/viQHzF5.png",Malhação Fast
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/215360.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",Masha e o Urso 24h
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/61887.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",Masha e o Urso 24h
@@ -5917,12 +6085,28 @@ http://play.1list.vip/live/nicolas050421/33hqo8y5u18/217871.mpegts
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/217871.mpegts
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/K4qvjd1.png",MegaMan [24h]
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/217871.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/37072.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/37072.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/37072.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix [4K]
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/61844.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix [4K]
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/61844.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix [4K]
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/61844.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix | Dual Audio
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63309.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix | Dual Audio
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63309.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/ysjGLm4.png",MegaPix | Dual Audio
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/63309.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix FHD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/41491.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix FHD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/41491.mpegts
 #EXTINF:-1 group-title="Canais | Legendado" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix FHD [L]
 http://play.1list.vip/live/nicolas050421/33hqo8y5u18/81803.mpegts
 #EXTINF:-1 group-title="Canais | Legendado" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix FHD [L]
@@ -8447,68 +8631,122 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133342.mpegts
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133342.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 02
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133343.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 02
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133343.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 02
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133343.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 03
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133344.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 03
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133344.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 04
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133345.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 04
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133345.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 05
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133346.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 05
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133346.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 06
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133347.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 06
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133347.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 07
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133439.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 07
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133439.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 08
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133440.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 08
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133440.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 09
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133441.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 09
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133441.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 10
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133442.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 10
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133442.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/jNnyGlX.png",Som de Chuva 10
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133442.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 01
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133332.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 01
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133332.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 01
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133332.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 02
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133333.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 02
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133333.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 02
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133333.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 03
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133334.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 03
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133334.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 03
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133334.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 04
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133335.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 04
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133335.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 04
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133335.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 05
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133336.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 05
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133336.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 05
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133336.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 06
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133337.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 06
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133337.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 06
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133337.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 07
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133338.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 07
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133338.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 07
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133338.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 08
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133339.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 08
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133339.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 08
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133339.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 09
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133340.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 09
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133340.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 09
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133340.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 10
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/133341.mpegts
 #EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 10
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/133341.mpegts
+#EXTINF:-1 group-title="Canais | Dormir e Relaxar" tvg-logo="https://i.imgur.com/HzVn0FO.png",Som de Natureza 10
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/133341.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/37007.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/37007.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/37007.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel | Dual Áudio
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/63250.mpegts
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel | Dual Áudio
 http://play.1list.vip/live/Cl4358669/e97mbqcbvle/63250.mpegts
+#EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel | Dual Áudio
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/63250.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel FHD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/41470.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel FHD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/41470.mpegts
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/H3HTJWH.png",Sony Channel FHD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/41470.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/oPzq9zc.png",Sony Channel FHD H265
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/50533.mpegts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/oPzq9zc.png",Sony Channel FHD H265
