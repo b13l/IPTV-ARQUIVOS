@@ -3,6 +3,12 @@
 https://hplay10.xyz:443/49136288/31568440/3433263.m3u8
 #EXTINF:-1 group-title="• Area do Cliente" tvg-logo="https://209.14.88.42:443/images/2806759c7c616fa556f55ee883edb94a.png",JOGOS DE HOJE
 https://hplay10.xyz:443/49136288/31568440/3433262.m3u8
+#EXTINF:-1 group-title="Reality | A Fazenda 17" tvg-logo="https://i.imgur.com/bsWH2Y5.png",A Fazenda 17 Aquecimento
+https://hplay10.xyz:443/49136288/31568440/3800440.m3u8
+#EXTINF:-1 group-title="Reality | A Fazenda 17" tvg-logo="https://i.imgur.com/bsWH2Y5.png",A Fazenda 17 Aquecimento
+http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/954156.m3u8
+#EXTINF:-1 group-title="Reality | A Fazenda 17" tvg-logo="https://i.imgur.com/bsWH2Y5.png",A Fazenda 17 Aquecimento
+http://play.1list.vip/live/manoelribeiro/elizete/954156.m3u8
 #EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo |  Muro das Lamentações
 http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/162988.m3u8
 #EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo |  Muro das Lamentações
@@ -1759,8 +1765,7 @@ https://hplay10.xyz:443/49136288/31568440/3433751.m3u8
 https://hplay10.xyz:443/49136288/31568440/3433750.m3u8
 #EXTINF:-1 group-title="CANAIS | 4K" tvg-logo="https://209.14.88.42:443/images/ac39c64f72059e50da38112831e84cd2.png",UNIVERSAL 4K
 https://hplay10.xyz:443/49136288/31568440/3433749.m3u8
-#EXTINF:-1 group-title="CANAIS | A FAZENDA 17" tvg-logo="https://209.14.88.42:443/images/bbfcce7306ed9296d458fc56813839be.jpg",FAZENDA FAST
-https://hplay10.xyz:443/49136288/31568440/3800440.m3u8
+
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal FHD
 http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/91572.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal FHD
@@ -11611,10 +11616,6 @@ http://play.1list.vip/live/manoelribeiro/elizete/931417.m3u8
 http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/113406.m3u8
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/wshifzU.png",VILLA MIX
 http://play.1list.vip/live/manoelribeiro/elizete/113406.m3u8
-#EXTINF:-1 group-title="Reality | A Fazenda 17" tvg-logo="https://i.imgur.com/bsWH2Y5.png",A Fazenda 17 Aquecimento
-http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/954156.m3u8
-#EXTINF:-1 group-title="Reality | A Fazenda 17" tvg-logo="https://i.imgur.com/bsWH2Y5.png",A Fazenda 17 Aquecimento
-http://play.1list.vip/live/manoelribeiro/elizete/954156.m3u8
 #EXTINF:-1 group-title="Reality | Estrela da Casa" tvg-logo="https://i.imgur.com/XQvMB0t.png",Estrela da Casa: Acompanhe o CT (B)
 http://play.1list.vip/live/ElizeteHRT/acu8my3o9n/955686.m3u8
 #EXTINF:-1 group-title="Reality | Estrela da Casa" tvg-logo="https://i.imgur.com/XQvMB0t.png",Estrela da Casa: Acompanhe o CT (B)
